@@ -7,7 +7,7 @@
         },
         {
             "id": 2,
-            "projectname": "App",
+            "projectname": "Calculater",
             "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         },
         {
@@ -22,22 +22,22 @@
         },
         {
             "id": 5,
-            "projectname": "App",
+            "projectname": "Collection App",
             "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         },
         {
             "id": 6,
-            "projectname": "App",
+            "projectname": "Oil App",
             "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         },
         {
             "id": 7,
-            "projectname": "App",
+            "projectname": "Music App",
             "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         },
         {
             "id": 8,
-            "projectname": "App",
+            "projectname": "I App",
             "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         }
     ]
